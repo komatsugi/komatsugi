@@ -20,7 +20,6 @@
 - FE試験合格
 - プログラマー職での実務経験
 - データベース関連業務へのステップアップ
-## Hi there 👋
 
 <!--
 **komatsugi/komatsugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
